@@ -8,7 +8,6 @@
 html {
     scroll-behavior: smooth;
 }
-
 /* loading ... */
 #center {
     display: flex;
@@ -626,7 +625,7 @@ nav ul li a:hover::after {
 
 #Certificates .work-list {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(8, 1fr);
     overflow-x: auto;
     grid-gap: 40px;
     margin-top: 50px;
@@ -920,7 +919,7 @@ nav .fa-solid {
     .social-media {
         display: flex;
         justify-content: center;
-        margin-top: 23px;
+        margin-top: 2vh;
     }
 
     .social-media a {
@@ -991,16 +990,16 @@ nav .fa-solid {
 
 
     #Projects .work {
-        width: 350px;
+        width: 300px;
         height: 345px;
     }
 
     #Certificates .work {
-        width: 352px;
+        width: 300px;
     }
 
     .EXTRACURRICULARACTIVITIES-list div {
-        width: 350px;
+        width: 300px;
 
     }
 
